@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madnes",
+      "director": "Sam Raimi",
+      "year": 2022,
+      "genre": "Action",
+      "IMDB_Rating": 8,
+      "ticket": 100,
+      "id": 1
+    },
+    {
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madnes",
+      "director": "Sam Raimi",
+      "year": 2022,
+      "genre": "Action",
+      "IMDB_Rating": 8,
+      "ticket": 100,
+      "id": 2
+    },
+    {
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madnes",
+      "director": "Sam Raimi",
+      "year": 2022,
+      "genre": "Action",
+      "IMDB_Rating": 8,
+      "ticket": 100,
+      "id": 3
+    }
+  ],
+  "users":[],
+  "booked":[]
+}

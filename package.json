@@ -1,0 +1,23 @@
+{
+  "name": "mock8-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharma24harshit/mock8-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharma24harshit/mock8-server/issues"
+  },
+  "homepage": "https://github.com/sharma24harshit/mock8-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
